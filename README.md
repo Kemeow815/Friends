@@ -7,7 +7,7 @@
 > 网站：[https://blog-v3.kemeow.top](https://blog-v3.kemeow.top)  
 > 描述：`奇迹只能一时，命运总是漫长。`  
 > 类别：生活/资源分享  
-> 头像：请访问[此处](https://github.com/YanDao0313/Friends/blob/main/src/me/NEW_PIC.jpg)  
+> 头像：请访问[此处](https://github.com/YanDao0313/Friends/blob/main/src/me/avatar.jpg)  
 > 背景：请访问[此处](https://github.com/YanDao0313/Friends/blob/main/src/me/newbg.jpeg)   
 > 订阅：[blog-v3.kemeow.top/feed.xml](https://blog-v3.kemeow.top/atom.xml)
 
