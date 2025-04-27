@@ -2,20 +2,18 @@
 
 ## 我的友链信息
 
-主站
+示例:
 > 名称：克喵爱吃卤面  
 > 网站：[https://blog-v3.kemeow.top](https://blog-v3.kemeow.top)  
 > 描述：`奇迹只能一时，命运总是漫长。`  
 > 类别：生活/资源分享  
-> 头像：请访问[此处](https://github.com/YanDao0313/Friends/blob/main/src/me/avatar.jpg)  
-> 背景：请访问[此处](https://github.com/YanDao0313/Friends/blob/main/src/me/newbg.jpeg)   
-> 订阅：[blog-v3.kemeow.top/feed.xml](https://blog-v3.kemeow.top/atom.xml)
-
-注：旧站点 daoblog.top (Yandao's Blog) 仍将保存，但内容不再更新。
+> 头像：请访问[此处](https://github.com/Kemeow815/Friends/blob/main/src/me/avatar.jpg)  
+> 背景：请访问[此处](https://github.com/Kemeow815/Friends/blob/main/src/me/bg.jpg)   
+> 订阅：[blog-v3.kemeow.top/atom.xml](https://blog-v3.kemeow.top/atom.xml)
 
 ## 基本要求
 
-> 如果你和我很熟了的话，直接[发邮件](mailto:friends@ydlk.cc)吧
+> 如果你和我很熟了的话，直接[发邮件](mailto:kemiaofriends@163.com)吧
 
 - 首先，请确保您已经在您的站点上的友链板块添加了我的网站  
 - 其次，**您不是本着卖广告的目的来交换**，您的网站属于**个人博客**  
@@ -56,13 +54,104 @@
 
 为了避免可能出现的图床问题，您可以将头像存储到贵站图床。
 
-> 名称：Kris Yan  
-> 网站：[https://blog.krisyan.dev/](https://blog.krisyan.dev/)  
-> 描述：無限進步 @Schale夏萊  
-> 类别：生活/日常  
-> 头像：请访问[此处](https://github.com/YanDao0313/Friends/blob/main/src/me/NEW_PIC.jpg)  
-> 背景：请访问[此处](https://github.com/YanDao0313/Friends/blob/main/src/me/newbg.jpeg)   
-> 订阅：[blog.krisyan.dev/feed.xml](https://blog.krisyan.dev/feed.xml)  
+主站:
+> 名称：克喵爱吃卤面  
+> 网站：[https://blog-v3.kemeow.top](https://blog-v3.kemeow.top)  
+> 描述：`奇迹只能一时，命运总是漫长。`  
+> 类别：生活/资源分享  
+> 头像：请访问[此处](https://github.com/Kemeow815/Friends/blob/main/src/me/avatar.jpg)  
+> 背景：请访问[此处](https://github.com/Kemeow815/Friends/blob/main/src/me/bg.jpg)   
+> 订阅：[blog-v3.kemeow.top/atom.xml](https://blog-v3.kemeow.top/atom.xml)
+
+次站1:
+> 名称：克喵爱吃卤面  
+> 网站：[https://blog.kemiao.xyz](https://blog.kemiao.xyz)  
+> 描述：`奇迹只能一时，命运总是漫长。`  
+> 类别：生活/资源分享  
+> 头像：请访问[此处](https://github.com/Kemeow815/Friends/blob/main/src/me/avatar.jpg)  
+> 背景：请访问[此处](https://github.com/Kemeow815/Friends/blob/main/src/me/bg.jpg)   
+> 订阅：[blog.kemiao.xyz/atom.xml](https://blog.kemiao.xyz/atom.xml)
+
+次站2:
+> 名称：克喵爱吃卤面  
+> 网站：[https://blog.152531.xyz](https://blog.152531.xyz)  
+> 描述：`奇迹只能一时，命运总是漫长。`  
+> 类别：生活/资源分享  
+> 头像：请访问[此处](https://github.com/Kemeow815/Friends/blob/main/src/me/avatar.jpg)  
+> 背景：请访问[此处](https://github.com/Kemeow815/Friends/blob/main/src/me/bg.jpg)   
+> 订阅：[blog.152531.xyz/atom.xml](https://blog.152531.xyz/atom.xml)
+
+次站3:
+> 名称：克喵爱吃卤面  
+> 网站：[https://myblog.kemeow.top](https://myblog.kemeow.top)  
+> 描述：`奇迹只能一时，命运总是漫长。`  
+> 类别：生活/资源分享  
+> 头像：请访问[此处](https://github.com/Kemeow815/Friends/blob/main/src/me/avatar.jpg)  
+> 背景：请访问[此处](https://github.com/Kemeow815/Friends/blob/main/src/me/bg.jpg)   
+> 订阅：[myblog.kemeow.top/atom.xml](https://myblog.kemeow.top/atom.xml)
+
+次站4:
+> 名称：克喵爱吃卤面  
+> 网站：[https://me.kemeow.cn](https://me.kemeow.cn)  
+> 描述：`奇迹只能一时，命运总是漫长。`  
+> 类别：生活/资源分享  
+> 头像：请访问[此处](https://github.com/Kemeow815/Friends/blob/main/src/me/avatar.jpg)  
+> 背景：请访问[此处](https://github.com/Kemeow815/Friends/blob/main/src/me/bg.jpg)   
+> 订阅：[me.kemeow.cn/atom.xml](https://me.kemeow.cn/atom.xml)
+
+次站5:
+> 名称：克喵爱吃卤面  
+> 网站：[https://kmblog.kemeow.top](https://kmblog.kemeow.top)  
+> 描述：`奇迹只能一时，命运总是漫长。`  
+> 类别：生活/资源分享  
+> 头像：请访问[此处](https://github.com/Kemeow815/Friends/blob/main/src/me/avatar.jpg)  
+> 背景：请访问[此处](https://github.com/Kemeow815/Friends/blob/main/src/me/bg.jpg)   
+> 订阅：[kmblog.kemeow.top/atom.xml](https://kmblog.kemeow.top/atom.xml)
+
+次站6:
+> 名称：克喵爱吃卤面  
+> 网站：[https://boke.kemiao.online](https://boke.kemiao.online)  
+> 描述：`奇迹只能一时，命运总是漫长。`  
+> 类别：生活/资源分享  
+> 头像：请访问[此处](https://github.com/Kemeow815/Friends/blob/main/src/me/avatar.jpg)  
+> 背景：请访问[此处](https://github.com/Kemeow815/Friends/blob/main/src/me/bg.jpg)   
+> 订阅：[boke.kemiao.online/atom.xml](https://boke.kemiao.online/atom.xml)
+
+次站7:
+> 名称：克喵爱吃卤面  
+> 网站：[https://kmblog.kemiaosw.top](https://kmblog.kemiaosw.top)  
+> 描述：`奇迹只能一时，命运总是漫长。`  
+> 类别：生活/资源分享  
+> 头像：请访问[此处](https://github.com/Kemeow815/Friends/blob/main/src/me/avatar.jpg)  
+> 背景：请访问[此处](https://github.com/Kemeow815/Friends/blob/main/src/me/bg.jpg)   
+> 订阅：[kmblog.kemiaosw.top/atom.xml](https://kmblog.kemiaosw.top/atom.xml)
+
+次站8:
+> 名称：克喵爱吃卤面  
+> 网站：[https://myblog.kemiao.online](https://myblog.kemiao.online)  
+> 描述：`奇迹只能一时，命运总是漫长。`  
+> 类别：生活/资源分享  
+> 头像：请访问[此处](https://github.com/Kemeow815/Friends/blob/main/src/me/avatar.jpg)  
+> 背景：请访问[此处](https://github.com/Kemeow815/Friends/blob/main/src/me/bg.jpg)   
+> 订阅：[myblog.kemiao.online/atom.xml](https://myblog.kemiao.online/atom.xml)
+
+次站9:
+> 名称：克喵爱吃卤面  
+> 网站：[https://www.kemiaosw.top](https://www.kemiaosw.top)  
+> 描述：`奇迹只能一时，命运总是漫长。`  
+> 类别：生活/资源分享  
+> 头像：请访问[此处](https://github.com/Kemeow815/Friends/blob/main/src/me/avatar.jpg)  
+> 背景：请访问[此处](https://github.com/Kemeow815/Friends/blob/main/src/me/bg.jpg)   
+> 订阅：[www.kemiaosw.top/atom.xml](https://www.kemiaosw.top/atom.xml)
+
+次站10:
+> 名称：克喵爱吃卤面  
+> 网站：[https://myblog.kemeow.cn](https://myblog.kemeow.cn)  
+> 描述：`奇迹只能一时，命运总是漫长。`  
+> 类别：生活/资源分享  
+> 头像：请访问[此处](https://github.com/Kemeow815/Friends/blob/main/src/me/avatar.jpg)  
+> 背景：请访问[此处](https://github.com/Kemeow815/Friends/blob/main/src/me/bg.jpg)   
+> 订阅：[myblog.kemeow.cn/atom.xml](https://myblog.kemeow.cn/atom.xml)
 
 ### 您要准备的
 
@@ -89,7 +178,7 @@
         ```yml
         "Name": # 名称置于双引号之中，不要太长
           url: https://example.com/ # 网站的URL，注意缩进【是博客链接哦】
-          img: https://source.friends.ydlk.cc/src/img/[YOUR_FILE_HERE] # 网站 Logo 的 URL，将[YOUR_FILE_HERE]换成上面提交的图片，当然，自备图床更好
+          img: https://xxx/xxx/xxx/[YOUR_FILE_HERE] # 网站 Logo 的 URL，将[YOUR_FILE_HERE]换成上面提交的图片，当然，自备图床更好
           text: "永远在学习的路上" # 网站的 Slogan，置于双引号之中，注意缩进
         ```  
     - `commit`的标题应为`Add: [sitename] ( [url] )`，如`Add: example blog ( https://example.com )`  
@@ -109,7 +198,7 @@
 N O N E
 ```
 
-> 如有恢复/误报，请联系我 [friends@ydlk.cc](mailto:friends@ydlk.cc)  
+> 如有恢复/误报，请联系我 [kemiaofriends@163.com](mailto:kemiaofriends@163.com)  
 > 如因网站备案而无法访问的，会在这里一并展示出来。  
 
 ## 免责声明
@@ -119,4 +208,4 @@ N O N E
 ---
 
 <sub>本仓库灵感来源于 <a href="https://github.com/SukkaW/Friends">SukkaW/Friends</a> 与 <a href="https://github.com/renbaoshuo/Friends">renbaoshuo/Friends</a> ，Action配置参考自 <a href="https://github.com/Kitcham/hexo-links-json-generation">Kitcham</a> ，在此表示感谢。</sub><br>
-<sub>&copy; 2023 Kris Yan. All rights reserved.</sub>
+<sub>&copy; 2025 克喵爱吃卤面. All rights reserved.</sub>
