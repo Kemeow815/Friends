@@ -70,7 +70,7 @@
 > 类别：生活/资源分享  
 > 头像：请访问[此处](https://github.com/Kemeow815/Friends/blob/main/src/me/avatar.jpg)  
 > 背景：请访问[此处](https://github.com/Kemeow815/Friends/blob/main/src/me/bg.jpg)   
-> 订阅：[blog.kemiao.xyz/atom.xml](https://blog.kemiao.xyz/atom.xml)
+> 订阅：[blog.kemiao.xyz/feed.xml](https://blog.kemiao.xyz/atom.xml)
 
 次站2:
 > 名称：克喵爱吃卤面  
@@ -79,7 +79,7 @@
 > 类别：生活/资源分享  
 > 头像：请访问[此处](https://github.com/Kemeow815/Friends/blob/main/src/me/avatar.jpg)  
 > 背景：请访问[此处](https://github.com/Kemeow815/Friends/blob/main/src/me/bg.jpg)   
-> 订阅：[blog.152531.xyz/atom.xml](https://blog.152531.xyz/atom.xml)
+> 订阅：[blog.152531.xyz/feed.xml](https://blog.152531.xyz/atom.xml)
 
 次站3:
 > 名称：克喵爱吃卤面  
