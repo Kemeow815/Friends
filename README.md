@@ -1,16 +1,15 @@
-# [友情链接](https://blog.krisyan.dev/friends)
-
-[![4](https://github.com/YanDao0313/Friends/assets/90099234/8515732e-892a-47bf-9f7a-4f74a67e7c5c)](https://blog.krisyan.dev/friends)
+# [友情链接](https://blog.152531.xyz/friends)
 
 ## 我的友链信息
 
-> 名称：Kris Yan  
-> 网站：[https://blog.krisyan.dev/](https://blog.krisyan.dev/)  
-> 描述：`無限進步 @Schale夏萊`  
-> 类别：生活/日常  
+主站
+> 名称：克喵爱吃卤面  
+> 网站：[https://blog-v3.kemeow.top](https://blog-v3.kemeow.top)  
+> 描述：`奇迹只能一时，命运总是漫长。`  
+> 类别：生活/资源分享  
 > 头像：请访问[此处](https://github.com/YanDao0313/Friends/blob/main/src/me/NEW_PIC.jpg)  
 > 背景：请访问[此处](https://github.com/YanDao0313/Friends/blob/main/src/me/newbg.jpeg)   
-> 订阅：[blog.krisyan.dev/feed.xml](https://blog.krisyan.dev/feed.xml)
+> 订阅：[blog-v3.kemeow.top/feed.xml](https://blog-v3.kemeow.top/atom.xml)
 
 注：旧站点 daoblog.top (Yandao's Blog) 仍将保存，但内容不再更新。
 
