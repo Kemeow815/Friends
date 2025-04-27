@@ -97,7 +97,6 @@
 > 类别：生活/资源分享  
 > 头像：请访问[此处](https://github.com/Kemeow815/Friends/blob/main/src/me/avatar.jpg)  
 > 背景：请访问[此处](https://github.com/Kemeow815/Friends/blob/main/src/me/bg.jpg)   
-> 订阅：[me.kemeow.cn/atom.xml](https://me.kemeow.cn/atom.xml)
 
 次站5:
 > 名称：克喵爱吃卤面  
