@@ -79,7 +79,7 @@
 > 类别：生活/资源分享  
 > 头像：请访问[此处](https://github.com/Kemeow815/Friends/blob/main/src/me/avatar.jpg)  
 > 背景：请访问[此处](https://github.com/Kemeow815/Friends/blob/main/src/me/bg.jpg)   
-> 订阅：[blog.152531.xyz/feed.xml](https://blog.152531.xyz/atom.xml)
+> 订阅：[blog.152531.xyz/feed.xml](https://blog.152531.xyz/feed.xml)
 
 次站3:
 > 名称：克喵爱吃卤面  
@@ -88,7 +88,6 @@
 > 类别：生活/资源分享  
 > 头像：请访问[此处](https://github.com/Kemeow815/Friends/blob/main/src/me/avatar.jpg)  
 > 背景：请访问[此处](https://github.com/Kemeow815/Friends/blob/main/src/me/bg.jpg)   
-> 订阅：[myblog.kemeow.top/atom.xml](https://myblog.kemeow.top/atom.xml)
 
 次站4:
 > 名称：克喵爱吃卤面  
@@ -105,7 +104,7 @@
 > 类别：生活/资源分享  
 > 头像：请访问[此处](https://github.com/Kemeow815/Friends/blob/main/src/me/avatar.jpg)  
 > 背景：请访问[此处](https://github.com/Kemeow815/Friends/blob/main/src/me/bg.jpg)   
-> 订阅：[kmblog.kemeow.top/atom.xml](https://kmblog.kemeow.top/atom.xml)
+> 订阅：[kmblog.kemeow.top/rss.xml](https://kmblog.kemeow.top/rss.xml)
 
 次站6:
 > 名称：克喵爱吃卤面  
@@ -114,7 +113,7 @@
 > 类别：生活/资源分享  
 > 头像：请访问[此处](https://github.com/Kemeow815/Friends/blob/main/src/me/avatar.jpg)  
 > 背景：请访问[此处](https://github.com/Kemeow815/Friends/blob/main/src/me/bg.jpg)   
-> 订阅：[boke.kemiao.online/atom.xml](https://boke.kemiao.online/atom.xml)
+> 订阅：[boke.kemiao.online/feed.xml](https://boke.kemiao.online/feed.xml)
 
 次站7:
 > 名称：克喵爱吃卤面  
@@ -123,7 +122,7 @@
 > 类别：生活/资源分享  
 > 头像：请访问[此处](https://github.com/Kemeow815/Friends/blob/main/src/me/avatar.jpg)  
 > 背景：请访问[此处](https://github.com/Kemeow815/Friends/blob/main/src/me/bg.jpg)   
-> 订阅：[kmblog.kemiaosw.top/atom.xml](https://kmblog.kemiaosw.top/atom.xml)
+> 订阅：[kmblog.kemiaosw.top/rss.xml](https://kmblog.kemiaosw.top/rss.xml)
 
 次站8:
 > 名称：克喵爱吃卤面  
@@ -132,7 +131,6 @@
 > 类别：生活/资源分享  
 > 头像：请访问[此处](https://github.com/Kemeow815/Friends/blob/main/src/me/avatar.jpg)  
 > 背景：请访问[此处](https://github.com/Kemeow815/Friends/blob/main/src/me/bg.jpg)   
-> 订阅：[myblog.kemiao.online/atom.xml](https://myblog.kemiao.online/atom.xml)
 
 次站9:
 > 名称：克喵爱吃卤面  
@@ -141,7 +139,7 @@
 > 类别：生活/资源分享  
 > 头像：请访问[此处](https://github.com/Kemeow815/Friends/blob/main/src/me/avatar.jpg)  
 > 背景：请访问[此处](https://github.com/Kemeow815/Friends/blob/main/src/me/bg.jpg)   
-> 订阅：[www.kemiaosw.top/atom.xml](https://www.kemiaosw.top/atom.xml)
+> 订阅：[www.kemiaosw.top/rss.xml](https://www.kemiaosw.top/rss.xml)
 
 次站10:
 > 名称：克喵爱吃卤面  
@@ -150,7 +148,7 @@
 > 类别：生活/资源分享  
 > 头像：请访问[此处](https://github.com/Kemeow815/Friends/blob/main/src/me/avatar.jpg)  
 > 背景：请访问[此处](https://github.com/Kemeow815/Friends/blob/main/src/me/bg.jpg)   
-> 订阅：[myblog.kemeow.cn/atom.xml](https://myblog.kemeow.cn/atom.xml)
+> 订阅：[myblog.kemeow.cn/rss.xml](https://myblog.kemeow.cn/rss.xml)
 
 ### 您要准备的
 
