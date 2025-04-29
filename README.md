@@ -184,7 +184,7 @@
 4. 完成上述步骤后，请新建一个`Pull Request`
     - PR标题应为`Add: [sitename] ( [url] )`，如`Add: example blog ( https://example.com )`  
     - 如有补充，请在PR中一并说明，例如特殊的RSS地址等
-5. 当你发起的`Pull Request`被审核且被通过、合并后，你的网站将会在12小时内显示在[友链页面](https://blog.krisyan.dev/friends)。
+5. 当你发起的`Pull Request`被审核且被通过、合并后，你的网站将会在12小时内显示在[友链页面](https://blog-v3.kemeow.top/link)。
     - 注意，如果您的站点不提供RSS订阅流，请务必在PR中说明。
 
 ## 出现问题的友链
